@@ -1,0 +1,12 @@
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\bin\Release\ezEvade.exe.config
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\bin\Release\ezEvade.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\bin\Release\ezEvade.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\bin\Release\EloBuddy.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\bin\Release\EloBuddy.SDK.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\bin\Release\LeagueSharp.Common.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\bin\Release\SharpDX.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\bin\Release\Newtonsoft.Json.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\bin\Release\LeagueSharp.Data.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\obj\Release\ezEvade.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\ezEvade\obj\Release\ezEvade.pdb

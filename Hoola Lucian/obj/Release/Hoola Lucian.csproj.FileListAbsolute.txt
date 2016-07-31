@@ -1,0 +1,13 @@
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\bin\Release\Hoola Lucian.exe.config
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\bin\Release\Hoola Lucian.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\bin\Release\Hoola Lucian.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\bin\Release\EloBuddy.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\bin\Release\LeagueSharp.Common.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\bin\Release\SharpDX.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\bin\Release\LeagueSharp.Data.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\bin\Release\EloBuddy.SDK.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\bin\Release\Newtonsoft.Json.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\obj\Release\Hoola Lucian.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\obj\Release\Hoola Lucian.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Hoola Lucian\obj\Release\Hoola Lucian.csprojResolveAssemblyReference.cache

@@ -37,6 +37,7 @@ namespace Azir
             player = ObjectManager.Player;
             if (player.ChampionName != "Azir") return;
 
+            Chat.Print(player.ChampionName);
             #region Spells
             Q = new Spell(SpellSlot.Q, 825);
             Qline = new Spell(SpellSlot.Q, 825);

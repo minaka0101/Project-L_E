@@ -10,3 +10,15 @@ C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\Azir\bin\Release\Newtonsof
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\Azir\bin\Release\LeagueSharp.Data.dll
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\Azir\obj\Release\Azir.exe
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\Azir\obj\Release\Azir.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\bin\Release\Azir.exe.config
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\bin\Release\Azir.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\bin\Release\Azir.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\bin\Release\EloBuddy.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\bin\Release\EloBuddy.SDK.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\bin\Release\LeagueSharp.Common.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\bin\Release\SharpDX.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\bin\Release\Newtonsoft.Json.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\bin\Release\LeagueSharp.Data.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\obj\Release\Azir.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Azir\obj\Release\Azir.pdb

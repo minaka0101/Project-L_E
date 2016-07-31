@@ -39,7 +39,7 @@ namespace HoolaLucian
     /// <summary>
     ///     This class offers everything related to auto-attacks and orbwalking.
     /// </summary>
-    public static class Orbwalking
+    public static class Orbwalking2
     {
         /// <summary>
         /// Delegate AfterAttackEvenH
@@ -191,7 +191,7 @@ namespace HoolaLucian
         /// <summary>
         /// Initializes static members of the <see cref="Orbwalking"/> class.
         /// </summary>
-        static Orbwalking()
+        static Orbwalking2()
         {
             player = ObjectManager.Player;
             _championName = player.ChampionName;
@@ -1178,6 +1178,13 @@ namespace HoolaLucian
                 }
                 _config.Item("FocusMinionsOverTurrets").Permashow(_config.Item("FocusMinionsOverTurrets").GetValue<KeyBind>().Active);
             }
+        }
+    }
+    public class LCOrbwak: LeagueSharp.Common.Orbwalking.Orbwalker
+    {
+        public LCOrbwak(Menu attachToMenu) : base(attachToMenu)
+        {
+            
         }
     }
 }
