@@ -10,3 +10,15 @@ C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\Blitzcrank\bin\Release\New
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\Blitzcrank\bin\Release\LeagueSharp.Data.dll
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\Blitzcrank\obj\Release\Blitzcrank.exe
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\Blitzcrank\obj\Release\Blitzcrank.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\bin\Release\Blitzcrank.exe.config
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\bin\Release\Blitzcrank.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\bin\Release\Blitzcrank.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\bin\Release\EloBuddy.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\bin\Release\EloBuddy.SDK.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\bin\Release\LeagueSharp.Common.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\bin\Release\SharpDX.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\bin\Release\Newtonsoft.Json.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\bin\Release\LeagueSharp.Data.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\obj\Release\Blitzcrank.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Blitzcrank\obj\Release\Blitzcrank.pdb
