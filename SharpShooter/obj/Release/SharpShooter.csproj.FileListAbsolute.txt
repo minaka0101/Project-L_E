@@ -1,0 +1,14 @@
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\obj\Release\SharpShooter.csprojResolveAssemblyReference.cache
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\SharpShooter.exe.config
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\SharpShooter.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\SharpShooter.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\EloBuddy.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\EloBuddy.SDK.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\LeagueSharp.Common.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\LeagueSharp.Data.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\SharpDX.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\Newtonsoft.Json.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\bin\Release\SPrediction.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\obj\Release\SharpShooter.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\SharpShooter\obj\Release\SharpShooter.pdb

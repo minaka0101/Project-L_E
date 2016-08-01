@@ -1,0 +1,15 @@
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\KurisuNidalee.exe.config
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\KurisuNidalee.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\KurisuNidalee.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\EloBuddy.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\EloBuddy.SDK.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\LeagueSharp.Common.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\SebbyLib.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\SharpDX.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\Newtonsoft.Json.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\LeagueSharp.Data.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\bin\Release\SPrediction.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\obj\Release\KurisuNidalee.csprojResolveAssemblyReference.cache
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\obj\Release\KurisuNidalee.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\KurisuNidalee\obj\Release\KurisuNidalee.pdb
