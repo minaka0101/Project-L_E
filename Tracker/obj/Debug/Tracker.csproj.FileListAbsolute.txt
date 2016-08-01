@@ -1,0 +1,15 @@
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\Tracker.exe.config
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\Tracker.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\Tracker.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\EloBuddy.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\EloBuddy.SDK.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\LeagueSharp.Common.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\SharpDX.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\Newtonsoft.Json.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\LeagueSharp.Data.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\bin\Release\LeagueSharp.Common.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\obj\Debug\Tracker.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\LTE\Tracker\obj\Debug\Tracker.pdb
