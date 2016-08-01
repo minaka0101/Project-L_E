@@ -12,3 +12,4 @@ C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Tracker\obj\Release\Tr
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Tracker\obj\Release\Tracker.csproj.GenerateResource.Cache
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Tracker\obj\Release\Tracker.exe
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Tracker\obj\Release\Tracker.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Tracker\obj\Release\Tracker.csprojResolveAssemblyReference.cache
