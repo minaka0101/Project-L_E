@@ -1,1 +1,12 @@
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\Brian Sharp.exe.config
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\Brian Sharp.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\Brian Sharp.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\EloBuddy.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\EloBuddy.SDK.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\LeagueSharp.Common.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\SharpDX.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\Newtonsoft.Json.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\LeagueSharp.Data.dll
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\obj\Release\Brian Sharp.exe
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\obj\Release\Brian Sharp.pdb
