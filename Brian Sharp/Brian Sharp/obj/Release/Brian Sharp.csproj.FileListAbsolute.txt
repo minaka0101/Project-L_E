@@ -10,3 +10,5 @@ C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Shar
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\LeagueSharp.Data.dll
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\obj\Release\Brian Sharp.exe
 C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\obj\Release\Brian Sharp.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\bin\Release\LeagueSharp.Common.pdb
+C:\Users\MINAKA\Documents\Visual Studio 2013\Projects\L2E\Brian Sharp\Brian Sharp\obj\Release\Brian Sharp.csprojResolveAssemblyReference.cache
